@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ## Reference
 
-This work was developed as part of the master's thesis:
+This work was developed as part of the master's thesis in in Quantitative Sociology and Demography (M2 SQD, Université Paris-Saclay – Institut Polytechnique de Paris):
 - **Title:** *Structures, réseaux et pouvoir dans l’économie paraguayenne contemporaine*  
 - **Author:** Sergio Rojas  
 - **Date:** June 2025  
