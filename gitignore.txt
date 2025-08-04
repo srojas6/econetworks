@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Raw data (optional: exclude large or sensitive input files)
+data/
+
+# Environment files
+.env
+.venv/
+*.env
+*.log
+
+# Hidden editor files
+.*.swp
